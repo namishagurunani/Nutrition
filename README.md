@@ -4,8 +4,8 @@
 ![image](https://github.com/namishagurunani/Nutrition/assets/126158413/2801e960-95e7-4e32-a173-84d2772d506f)
 
 # EXPLANATION:
-- * box-sizing: border-box; : Applies the box-sizing property to all elements, including borders and padding in the total width and height calculations.
-- html { font-size: 16px; }: Sets the base font size for the entire HTML document to 16 pixels.
+- * (box-sizing: border-box;) : Applies the box-sizing property to all elements, including borders and padding in the total width and height calculations.
+-  html (font-size: 16px;): Sets the base font size for the entire HTML document to 16 pixels.
 - .label: Defines the styles for the "label" class, which includes a black border, width, margin, and padding, making it resemble a container for the nutrition label.
 - .header h1`: Styles the heading element inside the header with center-aligned text and some margin adjustment.
 - .p: Sets the style for all paragraphs with space between their content and the dividers.
