@@ -4,7 +4,7 @@
 ![image](https://github.com/namishagurunani/Nutrition/assets/126158413/2801e960-95e7-4e32-a173-84d2772d506f)
 
 # HTML EXPLANATION:
-* <!DOCTYPE html>: This declaration defines the document type and version (HTML5) being used.
+* <!DOCTYPE html- This declaration defines the document type and version (HTML5) being used.
 * <html lang="en">: The opening tag for the HTML document. The lang attribute specifies the language of the document as English.
 * <head>: This section contains meta-information about the document, such as character encoding, title, and external resources like CSS files and fonts.
 * <meta charset="UTF-8">: Sets the character encoding to UTF-8, which supports a wide range of characters and symbols.
