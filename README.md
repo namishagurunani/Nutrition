@@ -9,7 +9,7 @@
 - 'head': This section contains meta-information about the document, such as character encoding, title, and external resources like CSS files and fonts.
 - 'meta charset="UTF-8"'>: Sets the character encoding to UTF-8, which supports a wide range of characters and symbols.
 - 'title>Nutrition Label</title': The title of the webpage that appears in the browser's title bar or tab.
-- 'link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet">: This links the webpage to an external Google Fonts stylesheet, providing access to the "Open Sans" font family in different weights.
+- 'link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800' rel="stylesheet'>: This links the webpage to an external Google Fonts stylesheet, providing access to the "Open Sans" font family in different weights.
 - 'link href="./styles.css" rel="stylesheet">: This links the webpage to an external CSS file named "styles.css" located in the same directory as the HTML file.- 
 - 'body': The body section contains the visible content of the webpage.
 - 'div class="label"'>: A container div with the class "label" that holds the entire nutrition label content.
