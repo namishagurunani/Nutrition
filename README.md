@@ -1,5 +1,5 @@
 # Nutrition label
-![Uploading image.png…]()
+![Uploading image.png…]
 # Sumbission-Required
 - Github link:[click here](https://github.com/namishagurunani/Nutrition)
 - Hosted link:[click here](https://namishagurunani.github.io/Nutrition/)
